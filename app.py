@@ -11,7 +11,7 @@ st.sidebar.title('Whatsapp Chat Analyzer')
 
 # About button
 if st.sidebar.button('About Creator'):
-    utils.about_me()
+    "Pratham Lokhande"
 
 # file uploader 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
